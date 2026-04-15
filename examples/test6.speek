@@ -1,0 +1,13 @@
+# Test if-else functionality
+let score be 40
+
+if score is greater than 50 then
+    say "Pass"
+else
+    say "Fail"
+
+let age be 25
+if age is less than 18 then
+    say "Minor"
+else
+    say "Adult"

@@ -1,0 +1,8 @@
+# Program 2 — String Output
+# Expected output:
+# Sitare
+# Hello from SPEEK
+
+let name be "Sitare"
+say name
+say "Hello from SPEEK"

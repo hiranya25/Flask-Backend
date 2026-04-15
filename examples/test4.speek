@@ -1,0 +1,11 @@
+# Program 4 — Repeat Loop
+# Expected output:
+# 1
+# 2
+# 3
+# 4
+
+let i be 1
+repeat 4 times
+    say i
+    let i be i + 1

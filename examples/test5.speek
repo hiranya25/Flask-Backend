@@ -1,0 +1,12 @@
+# Program 5 — Bonus: Equality Check (== operator)
+# Expected output:
+# 100
+# Values are equal
+
+let a be 50
+let b be 50
+let total be a + b
+say total
+
+if total == 100 then
+    say "Values are equal"

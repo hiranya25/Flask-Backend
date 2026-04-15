@@ -1,0 +1,7 @@
+# Program 1 — Arithmetic and Variables
+# Expected output: 16
+
+let x be 10
+let y be 3
+let result be x + y * 2
+say result

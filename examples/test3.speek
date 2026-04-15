@@ -1,0 +1,6 @@
+# Program 3 — Conditional (If Statement)
+# Expected output: Pass
+
+let score be 85
+if score is greater than 50 then
+    say "Pass"
